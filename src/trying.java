@@ -156,5 +156,6 @@ System.out.println(ans);
 		writer.println("The first line");
 		writer.println("The second line");
 		writer.close();*/
+	System.out.println("Thanks for using");
 	}
 }
